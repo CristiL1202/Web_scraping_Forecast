@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "biofarmingmanager",
+  "private_key_id": "f51ab7d008072dc2bc38be5fcbd1dd2b3a940a76",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDLANqGRn2n+JY7\niqlochNU+5UxAQvSSY7dfEmHJ5scvOrFZg4slzeTO1KYadpyYw8gqQjVvfWx+pKg\nlBbMrX+ZOjsYK0jJgw/0PnKynJq4ro4qNjoWjdWx1eCeM1qHoH2zvTy7VN7uDXCP\njkNKjxKemBV2C53k9Yc3wgl61PKNiuzZW8AkOMK9jfEAqM2XbayJHpt8miPwHBOP\n1Qlht3UTrEIj9932fQ6sxlcWvSPrESERKDD2tzmgfT+SnYaePZ5hN9SL/hszJpaX\n0Z3DGx4YWLRihw1k1xbVaC7ndaccEn9L3UKljuyXx5smS/pg+iPVIl5HMX6meuj4\nRRaNElBJAgMBAAECggEAPp8SSfaHv5+K9G4XSS1bck0zXg0FEQb457D125fnnOtX\n/rG3MKErFyNnHLYWmU+edIRAQfMZzh/OSHO2PshMgr94SEHd76+a5cy3xApUHiFW\noIXe0GNLZtLjudl8lTb4X9BB4kXRiRyjOt13O5I7+6lNgX8e42isIBKeqwHymp+R\nXSkau6sJk5T2+tt05u9LytkqpmqUgMWT3hJv7xXYkaGfyQAB/BH1GZe9yd7CqH1l\nJKD06XkiVYGavhFbLe8AJ3zyWWaXwx1eqfnJ0bhW6MHkoSLAutybVztrsI68ADhh\nMaMbQniq6vTyJHBkSfjlUbyxDERvWg2iCJuBMFkqawKBgQD/CzX4WKM3CGfwJJqS\nK6YaUGCuFvWPMf21JxggFzCo8qhlhzOzFHmQo92aKpEZIo6Tf4HHjWK7janVSULb\n3yJFAfZHniCPdPsap9aM4S5VgDs2t0X5CECg0KcYqMZNzr/1JnDg82szgBhbp2mO\n2rgPz6nXu9i6AIy8dPJY8rh2JwKBgQDLw7HaTHUoPsMjBSQpOCz3d1qwIf0B2se2\n8kdcfeWAXfJWW8UmKjmF2oBkAid9TBb5NBhYjTj3OWq4p7rM/v0vVnD+hHw8TkJ1\nHTNcj/fuf9sEr+CvSoUSfxGF1LDfvRFiNqQhpvJJ0mNwr6ycxBUfAtfV9drVeJQL\nXv4npoP8DwKBgQCU73gJ2cEePxNrQgTdvQ2Xqj57Cz9E6t2MbxMAkmpBDstV1rlT\nJ27CD182SwtGkU6PRdOEs8TnX5fAzLJ1cX0yrS2jruy2uYp1i3OX+1uyZFqv3iDH\nh5EuGAqsNMrw3v5r65HZW2zLu07+HupemM0JtqwpJjIulGmbF/P6C2u62wKBgHCL\niGKQtG0kLVfccRqrQnr024xJWZt6obC0pSG7D9YVDdMRIRVxYRBDnYKfhfw42L+Q\nPJo8dmhmuEGBszWi6WkKD6MkvhH5D8/r7wCDLGf5CpnOIwXu3Q1YTe9jiMYrgbyD\nfahws4Z+xBnrjiWQUDIuudQd1V7vGKYnM63m1SOVAoGBAOVHzE7mzeTQaxGlHptO\nz+LX9XnO2F52vBIlOTNOwCwVZYKkjWXIqa4EWg+sWKZ524nqydLkieQns/oyygZX\n1UdoBx/nWfaOspzbcYzEAUrPTI7tO0SM8y1F0gyYZj29G2lZ6B7gdfiudTWkQQK4\n0WGV19mwKk/nAAy0r7/YQEpU\n-----END PRIVATE KEY-----\n",
+  "client_email": "cristil@biofarmingmanager.iam.gserviceaccount.com",
+  "client_id": "108439903140560783915",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cristil%40biofarmingmanager.iam.gserviceaccount.com"
+}
