@@ -3,7 +3,7 @@ Web_scraping_Weather_forecast to a Gsheet
 
 This is the file were data is web_scraped as weater_data_forecast from site http://www.climatemps.com
 
-The main purpose of this application was to update the forecast module of #IrrigationManager to obtain the weather forecast automatically:
+The main purpose of this application was to identify the steps needed to update the forecast module of #IrrigationManager to obtain the weather forecast automatically:
 
 Old version #IrrigationManager v.1.8( http://bit.ly/IrrigationManager )- https://docs.google.com/spreadsheets/d/1A6Fg9mkwx0Utbhy-73f8Qb2ypd03wEB-4EPrnxVa-TE/edit?usp=sharing - with tutorial available here: https://youtu.be/sayqUIz35QI where the forecast needed to be introduced manually
 
